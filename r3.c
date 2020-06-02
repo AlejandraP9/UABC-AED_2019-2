@@ -2,9 +2,6 @@
 	Preciado Gudi#o Guillermina Alejandra  	Grupo:552
 	Fecha: 30/08/2019
 	GitHub... https://github.com/AlejandraP9
-
-	Se desea implementar un servidor de impresión, el usuario manda imprimir un caracter 
-	y el número de veces que desea que ese caracter se imprima.
 */
 
 #include<stdio.h>
